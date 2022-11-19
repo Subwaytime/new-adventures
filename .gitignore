@@ -1,0 +1,12 @@
+.fabric
+.replay-cache
+realms_persistence.json
+usercache.json
+options.txt
+
+logs
+saves
+screenshots
+replay_recordings
+crash-reports
+dashloader-cache
