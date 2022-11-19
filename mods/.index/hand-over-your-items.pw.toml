@@ -1,0 +1,14 @@
+name = "Hand Over Your Items"
+filename = "handoveryouritems-fabric_1.19.2-2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Z9RMqaGu/versions/tlIyO8zT/handoveryouritems-fabric_1.19.2-2.1.jar"
+hash-format = "sha512"
+hash = "e82b93523c375d1d02b2b07b85031143c1825bd9c6680a7e4f63b242f681e953af1c5e463d6a40bd686b0186f79f067ebe8403322ef19b1e030fd451f384a91b"
+
+[update]
+[update.modrinth]
+mod-id = "Z9RMqaGu"
+version = "tlIyO8zT"

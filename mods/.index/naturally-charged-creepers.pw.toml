@@ -1,0 +1,14 @@
+name = "Naturally Charged Creepers"
+filename = "naturallychargedcreepers-fabric_1.19.2-2.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/j5LquiGA/versions/2SfUPDIJ/naturallychargedcreepers-fabric_1.19.2-2.4.jar"
+hash-format = "sha512"
+hash = "7818deb430028612300c71e117b8a1b259caea920c0fb7b0879916cffda1001618e77d12aef0c69118584dda5c6f3fa222a17201b147ab0eff0610ce540e621a"
+
+[update]
+[update.modrinth]
+mod-id = "j5LquiGA"
+version = "2SfUPDIJ"

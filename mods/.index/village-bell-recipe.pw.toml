@@ -1,0 +1,14 @@
+name = "Village Bell Recipe"
+filename = "villagebellrecipe-fabric_1.19.2-2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/u692zai1/versions/Vh7N6gHW/villagebellrecipe-fabric_1.19.2-2.0.jar"
+hash-format = "sha512"
+hash = "51d28e1a1608a18522082ba6d1aa4dd6ca20ae8de7d3bacb56403098cb6408f2b1e13594daeb8ed40f8bdedc443d739d7046e8311e6efa13cf054e1449196fe1"
+
+[update]
+[update.modrinth]
+mod-id = "u692zai1"
+version = "Vh7N6gHW"

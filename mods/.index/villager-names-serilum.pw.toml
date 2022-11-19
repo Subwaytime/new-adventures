@@ -1,0 +1,14 @@
+name = "Villager Names"
+filename = "villagernames-fabric_1.19.2-4.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/gqRXDo8B/versions/IHYyfJWr/villagernames-fabric_1.19.2-4.3.jar"
+hash-format = "sha512"
+hash = "317357ca1e3b77570068a3c9f93a34c420cf339a352680bcfede8b7acc05e01cec2e95d943f67fd84044189f92fe1f79ff9788ba9ba3d21df53e63daeb9ade94"
+
+[update]
+[update.modrinth]
+mod-id = "gqRXDo8B"
+version = "IHYyfJWr"

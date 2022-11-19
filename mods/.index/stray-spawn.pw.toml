@@ -1,0 +1,14 @@
+name = "Stray Spawn"
+filename = "strayspawn-fabric_1.19.2-2.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/2lg2mCPe/versions/v1LLnZFT/strayspawn-fabric_1.19.2-2.2.jar"
+hash-format = "sha512"
+hash = "af03a369ef823e7e5355a5b2cdb91c20b60bc1f0eb4cb53f89f67a434b73ab2dec248ee39084a983c727ae1f171c9314f09b101483be9036ba858ca82507fda1"
+
+[update]
+[update.modrinth]
+mod-id = "2lg2mCPe"
+version = "v1LLnZFT"

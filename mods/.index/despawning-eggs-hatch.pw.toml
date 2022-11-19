@@ -1,0 +1,14 @@
+name = "Despawning Eggs Hatch"
+filename = "despawningeggshatch-fabric_1.19.2-2.9.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iKRtwScn/versions/JI1dwnJo/despawningeggshatch-fabric_1.19.2-2.9.jar"
+hash-format = "sha512"
+hash = "e0665cb7f652b359bfe2962096626ce5b292bb6fc4836ad1af4942990f5ffd68f29fa7730eedf71c60249af4f7fb01db5544002f36d59ba3c0c83a2ec8cc0911"
+
+[update]
+[update.modrinth]
+mod-id = "iKRtwScn"
+version = "JI1dwnJo"

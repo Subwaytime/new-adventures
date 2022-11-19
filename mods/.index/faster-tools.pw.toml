@@ -1,0 +1,14 @@
+name = "Faster Tools"
+filename = "fastertools-1.4.0-1.19.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "83d59c6e185582165e7f2e6718cf1ad2da528334"
+
+[update]
+[update.curseforge]
+file-id = 3913694
+project-id = 575663

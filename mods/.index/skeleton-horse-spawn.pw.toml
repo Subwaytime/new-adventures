@@ -1,0 +1,14 @@
+name = "Skeleton Horse Spawn"
+filename = "skeletonhorsespawn-fabric_1.19.2-2.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZcqNoW8j/versions/3Pb0k1iz/skeletonhorsespawn-fabric_1.19.2-2.6.jar"
+hash-format = "sha512"
+hash = "aacab06ff5b033c17221c85d16cc6975b2cd981df528fed2dcfbd1a30c21ec0fcc43ad0b923a7162cfb36168c3a21eb16569031efb8d79d6a9eaafdc11ade1c1"
+
+[update]
+[update.modrinth]
+mod-id = "ZcqNoW8j"
+version = "3Pb0k1iz"

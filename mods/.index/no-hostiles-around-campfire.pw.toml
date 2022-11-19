@@ -1,0 +1,14 @@
+name = "No Hostiles Around Campfire"
+filename = "nohostilesaroundcampfire-fabric_1.19.2-4.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/EJqeyaVz/versions/vqdmrDth/nohostilesaroundcampfire-fabric_1.19.2-4.6.jar"
+hash-format = "sha512"
+hash = "3093a1d3911b96d72c989fea813fac57797732a2461bd6a63a556015c3b586826794f26736ac49337d680d742070fb85b77dc248a2b8b66e0e0e9864ff587874"
+
+[update]
+[update.modrinth]
+mod-id = "EJqeyaVz"
+version = "vqdmrDth"

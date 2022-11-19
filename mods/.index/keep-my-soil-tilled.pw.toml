@@ -1,0 +1,14 @@
+name = "Keep My Soil Tilled"
+filename = "keepmysoiltilled-fabric_1.19.2-1.7.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/OC5Zubbe/versions/FczqDBJU/keepmysoiltilled-fabric_1.19.2-1.7.jar"
+hash-format = "sha512"
+hash = "ac31c95e95362d7066eb05c8ebfd0b6f4a49bef9689c4eb13714870ea85e89cc02ad147d29e0e3e1be1493cf13a11c0392a3fc668091dc6219f9bf6c9e2fd2b5"
+
+[update]
+[update.modrinth]
+mod-id = "OC5Zubbe"
+version = "FczqDBJU"

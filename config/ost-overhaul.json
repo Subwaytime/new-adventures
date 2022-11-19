@@ -1,0 +1,132 @@
+{
+  "Sounds": {
+    "minecraft:music.menu": {
+      "condition0": {
+        "playOnMenu": true,
+        "randUntilNextSong": 200.0,
+        "priority": 5.0,
+        "forceSwitchIn": true
+      }
+    },
+    "ostoverhaul:frosty": {
+      "condition0": {
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0,
+        "temp": {
+          "compareWith": "lessThan",
+          "number": 0.15
+        },
+        "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0,
+        "temp": {
+          "compareWith": "equals",
+          "number": 0.15
+        },
+        "dimension": "minecraft:overworld"
+      },
+      "condition2": {
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0,
+        "precipitation": "snow",
+        "dimension": "minecraft:overworld"
+      }
+    },
+    "ostoverhaul:the_ancient_city": {
+      "condition0": {
+        "randUntilNextSong": 600.0,
+        "priority": 2.0,
+        "structure": "minecraft:ancient_city",
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "ostoverhaul:minecraft.stronghold": {
+      "condition0": {
+        "randUntilNextSong": 600.0,
+        "priority": 2.0,
+        "structure": "minecraft:stronghold",
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "minecraft:music.dragon": {
+      "condition0": {
+        "randUntilNextSong": 1000.0,
+        "priority": 3.0,
+        "playOnDragon": true,
+        "dimension": "minecraft:the_end",
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "ostoverhaul:minecraft.bastion_remnant": {
+      "condition0": {
+        "randUntilNextSong": 600.0,
+        "priority": 2.0,
+        "structure": "minecraft:bastion_remnant",
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "minecraft:music.game": {
+      "condition0": {
+        "randUntilNextSong": 12000.0,
+        "priority": 0.0,
+        "dimension": "minecraft:overworld"
+      }
+    },
+    "minecraft:music.credits": {
+      "condition0": {
+        "randUntilNextSong": 600.0,
+        "priority": 10.0,
+        "playOnCredits": true,
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "minecraft:music.under_water": {
+      "condition0": {
+        "randUntilNextSong": 12000.0,
+        "priority": 3.0,
+        "isUnderWater": true,
+        "biomeTags": [
+          "minecraft:plays_underwater_music"
+        ],
+        "dimension": "minecraft:overworld"
+      }
+    },
+    "ostoverhaul:claustrophobic": {
+      "condition0": {
+        "randUntilNextSong": 12000.0,
+        "priority": 3.0,
+        "y": {
+          "compareWith": "lessThan",
+          "number": 61.0
+        },
+        "hasSkyAccess": false,
+        "dimension": "minecraft:overworld"
+      }
+    },
+    "minecraft:music.end": {
+      "condition0": {
+        "randUntilNextSong": 12000.0,
+        "priority": 0.0,
+        "dimension": "minecraft:the_end"
+      }
+    }
+  },
+  "Discs": [
+    "weird_realm",
+    "shock"
+  ],
+  "UpdateTicks": 10,
+  "BlockRange": 0,
+  "EntityRange": 0,
+  "AddBiomeSounds": true,
+  "UpdateAutomatically": true,
+  "Version": "0.1",
+  "HasForceSwitchIn": false
+}

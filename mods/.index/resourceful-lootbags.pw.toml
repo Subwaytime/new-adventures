@@ -1,0 +1,14 @@
+name = "Resourceful Lootbags"
+filename = "lootbags-fabric-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "3a05a872e9763b126d277147fa73e986080a478b"
+
+[update]
+[update.curseforge]
+file-id = 4029067
+project-id = 687082

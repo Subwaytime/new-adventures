@@ -1,0 +1,14 @@
+name = "Bigger Sponge Absorption Radius"
+filename = "biggerspongeabsorptionradius-fabric_1.19.2-2.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/3PLAyBxz/versions/7VJYNx3S/biggerspongeabsorptionradius-fabric_1.19.2-2.6.jar"
+hash-format = "sha512"
+hash = "1076bbcb3a7db6ba69b66ea8aa7c4a0cd439c6c6ecac2895c70866ec474715b1092b5b41a9c3e3ba8271e8e6f42c2a8da840de9ba246d695b551bad9c53090f5"
+
+[update]
+[update.modrinth]
+mod-id = "3PLAyBxz"
+version = "7VJYNx3S"

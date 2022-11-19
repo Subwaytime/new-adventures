@@ -1,0 +1,14 @@
+name = "Smaller Nether Portals"
+filename = "smallernetherportals-fabric_1.19.2-2.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fYAofsi6/versions/X1hwtFWy/smallernetherportals-fabric_1.19.2-2.5.jar"
+hash-format = "sha512"
+hash = "693242cff6b49effd4187727e69df26bb47234f3ca35e992987a6dea2eb525d8166ddaf622977f0fa168bfe309731c0ec94ad2645326e0f7feb949624f9927bb"
+
+[update]
+[update.modrinth]
+mod-id = "fYAofsi6"
+version = "X1hwtFWy"

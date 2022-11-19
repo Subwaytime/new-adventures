@@ -1,0 +1,14 @@
+name = "Shulker Drops Two"
+filename = "shulkerdropstwo-fabric_1.19.2-2.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UjXIyw47/versions/CDpfYHdi/shulkerdropstwo-fabric_1.19.2-2.4.jar"
+hash-format = "sha512"
+hash = "5d6481d4f1367f8d191db62c6ff5b4e538ae99527a70ed712a4e1e49e968a2d18707ee1ee121a4a06aa994cdc688f1a4be5539e39ccf4c1d7b588c346f13f826"
+
+[update]
+[update.modrinth]
+mod-id = "UjXIyw47"
+version = "CDpfYHdi"

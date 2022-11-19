@@ -1,0 +1,9 @@
+{
+  "semanticVersion": "1.4.2",
+  "updateInfo": {
+    "en_us": "Iris 1.4.2 has (re-)released, with a texture corruption fix. Download it at: {link}"
+},
+  "modHost": "Modrinth",
+  "modDownload": "https://modrinth.com/mod/iris",
+  "installer": "https://irisshaders.net"
+}

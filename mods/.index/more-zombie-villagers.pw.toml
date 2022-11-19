@@ -1,0 +1,14 @@
+name = "More Zombie Villagers"
+filename = "morezombievillagers-fabric_1.19.2-2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xu15hkKT/versions/oZFrjuE0/morezombievillagers-fabric_1.19.2-2.1.jar"
+hash-format = "sha512"
+hash = "7c21b8ddfb5199946d2cadd61c0e380fddd3d828efe17b3dd9765c8eb61c5d00b758557d454b2dbf53ee332dbd7754106315f5820c79c368cfa35463290b3f8d"
+
+[update]
+[update.modrinth]
+mod-id = "xu15hkKT"
+version = "oZFrjuE0"

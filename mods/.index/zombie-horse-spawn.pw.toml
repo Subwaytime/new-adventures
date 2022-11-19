@@ -1,0 +1,14 @@
+name = "Zombie Horse Spawn"
+filename = "zombiehorsespawn-fabric_1.19.2-3.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/owDBGfRd/versions/D06gaIYh/zombiehorsespawn-fabric_1.19.2-3.6.jar"
+hash-format = "sha512"
+hash = "44b6ce224b8ac575951d7475864541c89d67059381570fdbfc1112ad0c7cfad3e593772c426e3bf10402c544b9a3b3959c5e20a2d432ffa0985be0792f8f524e"
+
+[update]
+[update.modrinth]
+mod-id = "owDBGfRd"
+version = "D06gaIYh"

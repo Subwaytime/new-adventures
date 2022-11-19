@@ -1,0 +1,86 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				bat = true
+				zombie_villager = true
+				fox = true
+				pig = true
+				creeper = true
+				skeleton = true
+				glow_squid = true
+				zombie = true
+				spider = true
+				cat = true
+				villager = true
+				bee = true
+				iron_golem = true
+				mooshroom = true
+				cow = true
+				rabbit = true
+				turtle = true
+				squid = true
+				enderman = true
+				cod = true
+				item = true
+				dolphin = true
+				witch = true
+				chicken = true
+				sheep = true
+				wolf = true
+				item_frame = true
+				armor_stand = true
+				horse = true
+				painting = true
+				donkey = true
+				goat = true
+
+			[light_sources.settings.entities.naturalist]
+				butterfly = true
+				cardinal = true
+				snail = true
+				snake = true
+				deer = true
+				firefly = true
+				robin = true
+				bear = true
+				boar = true
+				rhino = true
+				giraffe = true
+				lion = true
+
+			[light_sources.settings.entities.unvotedandshelved]
+				oxidized_copper_golem = true
+
+			[light_sources.settings.entities.rottencreatures]
+				undead_miner = true
+
+			[light_sources.settings.entities.mobscarecrow]
+				wolf_plushie = true
+
+			[light_sources.settings.entities.smallships]
+				brigg = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+

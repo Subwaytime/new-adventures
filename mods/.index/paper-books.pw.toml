@@ -1,0 +1,14 @@
+name = "Paper Books"
+filename = "paperbooks-fabric_1.19.2-2.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/QM2wt9X3/versions/RbDK3aUx/paperbooks-fabric_1.19.2-2.2.jar"
+hash-format = "sha512"
+hash = "7a423bcf94c7042324d3a441ac61993603c5322e6b5bc76ca87a7fb6328d9a59566f40545cca102483d8b1f48ac7340230704568dbe1eb20d6c7d57767be5735"
+
+[update]
+[update.modrinth]
+mod-id = "QM2wt9X3"
+version = "RbDK3aUx"

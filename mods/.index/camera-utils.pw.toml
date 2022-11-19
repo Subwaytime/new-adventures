@@ -1,0 +1,14 @@
+name = "Camera Utils"
+filename = "camerautils-1.19.2-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "04c1df4ccba4e52c09b00c060b2469d9d6c0b99a"
+
+[update]
+[update.curseforge]
+file-id = 3919436
+project-id = 510234

@@ -1,0 +1,14 @@
+name = "Nether Portal Spread"
+filename = "netherportalspread-fabric_1.19.2-6.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/z7UX4SHt/versions/XxsLXYPu/netherportalspread-fabric_1.19.2-6.5.jar"
+hash-format = "sha512"
+hash = "409f1833ee29b8912d59f2b5ff599df5973c8ba7b4334976fef6045a9f5d4cb59baa81a870d668f6b86d56775367cec613087cb3179596ec11f42e3cf18e62b4"
+
+[update]
+[update.modrinth]
+mod-id = "z7UX4SHt"
+version = "XxsLXYPu"
