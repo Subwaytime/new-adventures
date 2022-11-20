@@ -54,6 +54,14 @@ mode = "fancy"
 				painting = true
 				donkey = true
 				goat = true
+				illusioner = true
+				husk = true
+				stray = true
+				salmon = true
+				axolotl = true
+				tropical_fish = true
+				parrot = true
+				tnt_minecart = true
 
 			[light_sources.settings.entities.naturalist]
 				butterfly = true
@@ -68,6 +76,8 @@ mode = "fancy"
 				rhino = true
 				giraffe = true
 				lion = true
+				bluejay = true
+				coral_snake = true
 
 			[light_sources.settings.entities.unvotedandshelved]
 				oxidized_copper_golem = true
