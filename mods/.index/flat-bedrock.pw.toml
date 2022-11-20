@@ -1,0 +1,14 @@
+name = "flat-bedrock"
+filename = "flatbedrock-fabric-2.0.0-build.14+mc1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZYLnkiVu/versions/583ObsPa/flatbedrock-fabric-2.0.0-build.14%2Bmc1.19.2.jar"
+hash-format = "sha512"
+hash = "942be7564ad8307ec1681edb852d01dac43c77b615e15471401817e3a189bcda1eff9efda6249965139de217b3d9cbc9ff2c1659b5d6ab9facd1e8ed1e3712bd"
+
+[update]
+[update.modrinth]
+mod-id = "ZYLnkiVu"
+version = "583ObsPa"
