@@ -94,3 +94,6 @@ mode = "fancy"
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
 
+			[light_sources.settings.entities.friendsandfoes]
+				moobloom = true
+
