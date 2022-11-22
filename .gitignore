@@ -1,12 +1,18 @@
 .fabric
-.replay-cache
+.replay_cache
 realms_persistence.json
 usercache.json
 options.txt
+rhino.local.properties
 
 logs
-saves
-screenshots
+local
 replay_recordings
 crash-reports
 dashloader-cache
+
+saves
+screenshots
+chesttracker
+XaeroWaypoints
+XaeroWorldMap
