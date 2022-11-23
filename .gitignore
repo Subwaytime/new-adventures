@@ -1,5 +1,6 @@
 .fabric
 .replay_cache
+.bobby
 realms_persistence.json
 usercache.json
 options.txt
