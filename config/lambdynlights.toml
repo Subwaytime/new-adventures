@@ -62,6 +62,10 @@ mode = "fancy"
 				tropical_fish = true
 				parrot = true
 				tnt_minecart = true
+				cave_spider = true
+				drowned = true
+				experience_orb = true
+				slime = true
 
 			[light_sources.settings.entities.naturalist]
 				butterfly = true
@@ -96,4 +100,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.friendsandfoes]
 				moobloom = true
+
+			[light_sources.settings.entities.levelz]
+				level_experience_orb = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
 
